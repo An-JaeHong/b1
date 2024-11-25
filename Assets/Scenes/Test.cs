@@ -12,7 +12,7 @@ public class Test : MonoBehaviour
         //수정2
         print("습연");
         //수정1111
-        //11
+        //1111
         print("dd");
     }
 
