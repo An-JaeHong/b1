@@ -13,11 +13,11 @@ public class Test : MonoBehaviour
         print("습연");
         //수정1111
 
+        print("dd");
     }
 
     // Update is called once per frame
     void Update()
     {
-        
     }
 }
